@@ -19,4 +19,4 @@ An extract from the code:
 
 ![Hmap](https://github.com/abdhye/moviesAnalysis/assets/56081405/19c7687e-33fa-444e-bd5c-b93c9a3d1bfa)
 
-This heatmap shows hight correlation between gross earnings and budget.
+This heatmap shows high correlation between gross earnings and budget.
